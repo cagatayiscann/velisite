@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.237c0254.css",
+    "main.js": "/static/js/main.a655d8ea.js",
+    "static/js/787.a658a1e9.chunk.js": "/static/js/787.a658a1e9.chunk.js",
+    "static/media/hesap-makinesi.jpg": "/static/media/hesap-makinesi.600bdeb37429d4f74b2d.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.ed6298903ae1554c7f3e.svg",
+    "static/media/şirket-kuruluş.jpg": "/static/media/şirket-kuruluş.fc27fd9610fa4a3fc592.jpg",
+    "static/media/homephoto2.jpg": "/static/media/homephoto2.0ffc59a932a4398e5b93.jpg",
+    "static/media/themify.svg?-fvbane": "/static/media/themify.f0fc8c798eac5636249c.svg",
+    "static/media/slider1.jpg": "/static/media/slider1.9118c35b03156c0d6941.jpg",
+    "static/media/logo-vy.png": "/static/media/logo-vy.8add50f1aed3f5a3a6b5.png",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.f0af1680f082547a7aae.ttf",
+    "static/media/1.jpg": "/static/media/1.e615d97caca1c914db8f.jpg",
+    "static/media/header.jpg": "/static/media/header.a4480946baed96884d82.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f7f1738ca345185e0185.woff",
+    "static/media/themify.eot": "/static/media/themify.9bad94440d49256265a5.eot",
+    "static/media/themify.ttf?-fvbane": "/static/media/themify.eda8b94308c6f538f04a.ttf",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.09b9015b1ecaf95655b1.eot",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.0317d582b93c20f68e05.woff2",
+    "static/media/themify.woff?-fvbane": "/static/media/themify.29b39089170885ae2967.woff",
+    "static/media/flaticon.svg": "/static/media/flaticon.d6077b912e4ba9153a49.svg",
+    "static/media/flaticon.eot": "/static/media/flaticon.c1db565d62cfc5ef3411.eot",
+    "static/media/flaticon.ttf": "/static/media/flaticon.7962e65d396c72553418.ttf",
+    "static/media/flaticon.woff": "/static/media/flaticon.b38bfa64af5fbf90c954.woff",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/icomoon.eot": "/static/media/icomoon.6faca303ec9008268fe0.eot",
+    "static/media/icomoon.ttf": "/static/media/icomoon.77426bf137fdcf0de6fe.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/icomoon.woff": "/static/media/icomoon.212cfba0008bcec55421.woff",
+    "static/media/icomoon.svg": "/static/media/icomoon.b6e5c0a8c5c02562dede.svg",
+    "index.html": "/index.html",
+    "main.237c0254.css.map": "/static/css/main.237c0254.css.map",
+    "main.a655d8ea.js.map": "/static/js/main.a655d8ea.js.map",
+    "787.a658a1e9.chunk.js.map": "/static/js/787.a658a1e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.237c0254.css",
+    "static/js/main.a655d8ea.js"
+  ]
+}
