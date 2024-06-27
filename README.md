@@ -8,6 +8,6 @@ https://smmmveliyildirim.com/
 
 # Setup instructions
 
--Clone project: git clone https://github.com/cagatayiscann/velisite
--Install packages: npm i --legacy-peer-deps, npm install --legacy-peer-deps or yarn install.
--npm start or yarn start
+- Clone project: git clone https://github.com/cagatayiscann/velisite
+- Install packages: npm i --legacy-peer-deps, npm install --legacy-peer-deps or yarn install.
+- npm start or yarn start
